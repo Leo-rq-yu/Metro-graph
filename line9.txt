@@ -1,0 +1,13 @@
+138 郭公庄 Guogongzhuang 116.308567 39.820764 
+139 丰台科技园 Fengtaikejiyuan 116.303639 39.831449 
+140 科怡路 Keyilu 116.303808 39.838664 
+141 丰台南路 Fengtainanlu 116.302854 39.847201 
+142 丰台东大街 Fengtaidongdajie 116.300215 39.86144 
+143 七里庄 Qilizhuang 116.300553 39.873015 
+144 六里桥 Liuliqiao 116.30961 39.886428 
+145 六里桥东 Liuliqiaodong 116.321463 39.89278 
+105 北京西站 Beijingxizhan 116.327811 39.900677 
+9 军事博物馆 Junshibowuguan 116.330349 39.913214 
+146 白堆子 Baiduizi 116.332359 39.929707 
+85 白石桥南 Baishiqiaonan 116.332038 39.938399 
+49 国家图书馆 Guojiatushuguan 116.331897 39.948864 
